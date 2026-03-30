@@ -1262,6 +1262,7 @@ body {
   border-radius: 50%;
   font-size: 16px;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .footer-social a:hover {
